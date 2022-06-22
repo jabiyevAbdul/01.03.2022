@@ -1,0 +1,36 @@
+
+// Small devices (landscape phones, 576px and up)
+@media (max-width: 576px) { 
+.header{
+    .menu{
+        ul{
+            li{
+                a{
+                    display: none;
+                }
+                i{
+                    display: block;
+                }
+            }
+        }
+    }
+}
+}
+
+// Medium devices (tablets, 768px and up)
+@media (max-width: 768px) { 
+    .header{
+        .menu{
+            ul{
+                li{
+                    a{
+                        display: none;
+                    }
+                    i{
+                        display: block;
+                    }
+                }
+            }
+        }
+    }
+ }
